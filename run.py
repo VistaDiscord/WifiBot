@@ -5,7 +5,7 @@ import asyncio
 # Your bot token goes here
 TOKEN = 'TOKEN'
 # Your channel ID goes here
-CHANNEL_ID = 1161608849334222850
+CHANNEL_ID = your-discord-channel-id
 # Your ping threshold in milliseconds
 PING_THRESHOLD = 50
 # Your speed thresholds in Mbps
