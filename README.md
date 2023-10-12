@@ -1,2 +1,3 @@
-# WifiBot
-Updating Soon
+#WifiBot
+
+Documentation soon
