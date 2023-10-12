@@ -63,4 +63,4 @@ Feel free to fork the project, open a Pull Request, or submit issues and feature
 
 ## License
 
-[MIT License](LICENSE)
+The project is free to use, and free to duplicate
