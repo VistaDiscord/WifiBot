@@ -35,7 +35,7 @@ WiFiBot is a Discord bot that monitors your network's speed and reports the stat
     CHANNEL_ID = your-discord-channel-id
     ```
 
-4. Replace `'your-discord-bot-token'` with your Discord bot token and `your-discord-channel-id` with the ID of the Discord channel where you want to send network status updates.
+4. Replace `'TOKEN'` with your Discord bot token and `your-discord-channel-id` with the ID of the Discord channel where you want to send network status updates.
 
 ### Usage
 
