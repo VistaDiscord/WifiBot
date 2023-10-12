@@ -31,7 +31,7 @@ WiFiBot is a Discord bot that monitors your network's speed and reports the stat
 
 3. Create a file named `config.py` in the project directory with the following content:
     ```python
-    TOKEN = 'your-discord-bot-token'
+    TOKEN = 'TOKEN'
     CHANNEL_ID = your-discord-channel-id
     ```
 
