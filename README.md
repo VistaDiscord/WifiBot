@@ -29,10 +29,9 @@ WiFiBot is a Discord bot that monitors your network's speed and reports the stat
     pip install discord.py speedtest-cli
     ```
 
-3. Create a file named `config.py` in the project directory with the following content:
+3. Create a file named `.env` in the project directory with the following content:
     ```python
-    TOKEN = 'TOKEN'
-    CHANNEL_ID = your-discord-channel-id
+    DISCORD_TOKEN = YOUR_DISCORD_TOKEN
     ```
 
 4. Replace `'TOKEN'` with your Discord bot token and `your-discord-channel-id` with the ID of the Discord channel where you want to send network status updates.
